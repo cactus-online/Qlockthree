@@ -1,0 +1,24 @@
+Wichtige Tasten auf dem Nachttisch
+
+Modus Uhrzeit
+H+	-> LED aus 		-> H+ 	-> Uhrzeit
+				-> M+ 	-> alle LED an
+				-> M	-> Uhrzeit
+				-> Alarm-> Weckzeiteinstellung
+				-> E	-> Einstellungsmodus
+M+ 	-> alle LED an 	-> M+	-> Uhrzeit 
+				-> H+ 	-> LED aus
+				-> M	-> Uhrzeit
+				-> Alarm-> Weckzeiteinstellung
+				-> E	-> aktuelle Helligkeit
+E	aktuelle Helligkeit	-> M	-> Uhrzeit
+				-> Alarm-> Weckzeiteinstellung
+
+[Alarm]			-> Modus Weckzeiteinstellung
+
+
+Modus Weckzeiteinstellung
+			-> 5 sec 	-> Alarm ein/aus
+			-> M		-> Alarmzeit +5 min
+			-> H+		-> Alarmzeit +1h
+			-> M+		-> Alarmzeit +1min
